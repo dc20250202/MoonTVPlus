@@ -578,4 +578,3 @@ NEXT_PUBLIC_VOICE_CHAT_STRATEGY 选项解释：
 
 [![Star History Chart](https://api.star-history.com/svg?repos=mtvpls/moontvplus&type=Date)](https://www.star-history.com/#mtvpls/moontvplus&Date)
 
-// update
